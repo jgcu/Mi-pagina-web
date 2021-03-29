@@ -1,0 +1,31 @@
+body{
+    background: #DCEF7B ;
+    margin:1;
+    padding: 1;
+   
+}
+h1{
+    color: white;
+    text-align: center;
+    font-family: cursive;
+    font-size: 300%;
+}
+
+div{
+    font-style: italic;
+}
+#bienvenida{
+    text-align: center;
+    font-size: 133%;
+}
+h2{
+    font-size: 250%;
+    background: black;
+    color: white;
+}
+#menu{
+    font-size: 200%;
+}
+ul{
+    font-size: 200%;
+}
